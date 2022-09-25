@@ -6,4 +6,4 @@ Originalmente, o projeto tucumã foi um projeto prático de programação, conce
 A idéia aqui é refazer a parte back-end do projeto, aproveitando os conhecimentos adquiridos tanto na faculdade, quanto lendo documentações. Começarei substituindo os métodos de acesso ao banco de dados, e posteriormente, implementarei outros recursos, com o objetivo de aprimorar a usabilidade e segurança da plataforma
 
 ## :dart: Status do projeto
-Em andamento...
+Em pausa (devido a outro projeto que será publicado futuramente)
